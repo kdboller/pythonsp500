@@ -26,4 +26,4 @@ For any packages not distributed under Anaconda, e.g., the Yahoo Finance package
 
 ## Future additions
 
-1. Add an environment.yml file in order to create new conda environment.
+1. Add an environment.yml file in order to allow for the creation and usage of a new conda environment.
