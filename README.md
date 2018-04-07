@@ -1,6 +1,7 @@
 # pythonsp500
 
 This repository contains the Jupyter notebook with full code for the "Python for Finance:  Stock Portfolio Analyses post", as well as an excel file which is initially read in as a sample portfolio.
+
 ---
 
 ## Relevant posts where you can find the tutorial
@@ -11,6 +12,7 @@ This repository contains the Jupyter notebook with full code for the "Python for
 4. LinkedIn: [to come]
 
 ## Getting set up
+
 ---
 
 1. Clone this repository:  ``git clone https://github.com/kdboller/pythonsp500``; or 
