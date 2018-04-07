@@ -1,6 +1,6 @@
 # pythonsp500
 
-This repository contains the Jupyter notebook with full code for the "Python for Finance:  Stock Portfolio Analyses post", as well as an excel file which is initially read in as a sample portfolio.
+This repository contains the Jupyter notebook with full code for the "Python for Finance:  Stock Portfolio Analyses" post, as well as an excel file which is initially read in as a sample portfolio.
 
 ---
 
