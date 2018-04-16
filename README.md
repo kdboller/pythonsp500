@@ -6,7 +6,7 @@ This repository contains the Jupyter notebook with full code for the "Python for
 
 ## Relevant posts where you can find the tutorial
 
-1. Medium: [to come]
+1. Medium: https://towardsdatascience.com/python-for-finance-stock-portfolio-analyses-6da4c3e61054
 2. Personal blog:  https://kdboller.github.io/2018/03/04/scaling-financial-insights-with-python.html
 3. LinkedIn: [to come]
 4. DataCamp tutorial: [to come]
